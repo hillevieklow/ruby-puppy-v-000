@@ -8,7 +8,8 @@ class Dog
     @name = name
   end
 
-  def self
+  def self.clear_all
+    
   end
 
 end
